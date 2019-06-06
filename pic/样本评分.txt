@@ -1,0 +1,3 @@
+avg 0.592
+dragon 1
+kingdom 0.66
